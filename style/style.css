@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	background: black;
+	color: white;
+	margin: 0;
+	margin-bottom: 15px;
+	text-align: center;
+	padding: 15px;
+}
+.container {
+	width: 95%;
+	margin: auto;
+}
+
+table {
+	margin-top: 2rem;
+}
+
+table, th, td {
+	border: 1px solid black;
+	padding: 7px;
+	border-collapse: collapse;
+}
